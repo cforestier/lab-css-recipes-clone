@@ -1,11 +1,24 @@
-body {
-  font-family: sans-serif;
+* {
+  margin: 0;
+  padding: 0;
 }
 
-.width {
+body {
+  font-family: "Open Sans", sans-serif;
+}
+
+.padding-top {
   padding-right: 15%;
   padding-left: 15%;
 }
+.width {
+  padding: 60px;
+}
+
+.padding-bottom {
+  padding-bottom: 60px;
+}
+
 h1 {
   font-weight: 100;
   color: white;
